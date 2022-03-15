@@ -1,0 +1,18 @@
+<svg width="122" height="172" viewBox="0 0 122 172" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  #Arrows{
+    animation : animate 4s infinite ease-in-out;
+  }
+  @keyframes animate{
+    0%{ transform: translateZ(0) translateY(0);
+    }
+    50%{ transform: translateZ(0) translateY(10px);
+    }
+    100%{ transform: translateZ(0) translateY(0);
+    }
+  }
+</style>
+<g id="Arrows">
+<path id="Arrow" d="M60.6464 86.3536C60.8417 86.5488 61.1583 86.5488 61.3536 86.3536L64.5355 83.1716C64.7308 82.9763 64.7308 82.6597 64.5355 82.4645C64.3403 82.2692 64.0237 82.2692 63.8284 82.4645L61 85.2929L58.1716 82.4645C57.9763 82.2692 57.6597 82.2692 57.4645 82.4645C57.2692 82.6597 57.2692 82.9763 57.4645 83.1716L60.6464 86.3536ZM60.5 57L60.5 86H61.5L61.5 57H60.5Z" fill="#F1F1F1"/>
+</g>
+</svg>
